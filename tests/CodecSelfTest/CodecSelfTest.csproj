@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../../src/FactorySoundStudio/Core/DoIpCodec.cs" Link="DoIpCodec.cs" />
+    <Compile Include="../../src/FactorySoundStudio/Core/SafeDid.cs" Link="SafeDid.cs" />
+  </ItemGroup>
+</Project>

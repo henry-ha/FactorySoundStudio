@@ -1,0 +1,14 @@
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\bin\Release\net8.0-windows\FactorySoundStudio.exe
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\bin\Release\net8.0-windows\FactorySoundStudio.deps.json
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\bin\Release\net8.0-windows\FactorySoundStudio.runtimeconfig.json
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\bin\Release\net8.0-windows\FactorySoundStudio.dll
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\bin\Release\net8.0-windows\FactorySoundStudio.pdb
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\obj\Release\net8.0-windows\FactorySoundStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\obj\Release\net8.0-windows\FactorySoundStudio.AssemblyInfoInputs.cache
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\obj\Release\net8.0-windows\FactorySoundStudio.AssemblyInfo.cs
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\obj\Release\net8.0-windows\FactorySoundStudio.csproj.CoreCompileInputs.cache
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\obj\Release\net8.0-windows\FactorySoundStudio.dll
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\obj\Release\net8.0-windows\refint\FactorySoundStudio.dll
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\obj\Release\net8.0-windows\FactorySoundStudio.pdb
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\obj\Release\net8.0-windows\FactorySoundStudio.genruntimeconfig.cache
+E:\inetpub\wwwroot\FactorySoundStudio\src\FactorySoundStudio\obj\Release\net8.0-windows\ref\FactorySoundStudio.dll
